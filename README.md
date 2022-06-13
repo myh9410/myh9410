@@ -2,7 +2,7 @@
 
 I'm Backend & Server Developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=myh9410)](https://github.com/myh9410/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=myh9410)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myh9410)](https://github.com/myh9410/github-readme-stats)
 
